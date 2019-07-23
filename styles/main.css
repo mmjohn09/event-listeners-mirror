@@ -1,0 +1,17 @@
+.articleContainer {
+    display: flex;
+    padding: 20px;
+}
+
+
+#articleOne {
+    border: 1px solid red;
+    width: 50%;
+    height: 25px;
+}
+
+#articleTwo {
+    border: 1px solid blue;
+    width: 50%;
+    height: 25px;
+}
